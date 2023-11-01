@@ -1,5 +1,5 @@
 {
-  "name": "codingchallenge_template",
+  "name": "codingchallenge-pacific-atlantic-water-flow",
   "dependencies": {},
   "devDependencies": {
     "mocha": "~8.2.1"
